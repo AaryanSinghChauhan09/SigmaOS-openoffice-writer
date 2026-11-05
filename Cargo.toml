@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_openoffice_writer"
+version = "0.1.0"
+edition = "2021"
+description = "OpenOffice Writer word processing engine, paragraph styles, and text flow"
+
+[lib]
+name = "sigmaos_openoffice_writer"
+path = "src/lib.rs"
