@@ -3,7 +3,7 @@ name = "SigmaOS-openoffice-writer"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "OpenOffice Writer word processing engine, paragraph styles, and text flow"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
